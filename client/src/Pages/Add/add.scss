@@ -1,0 +1,21 @@
+form{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20%;
+    width: 50%;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    border-radius: 3%;
+    height: 40px;
+    width: 40%;
+}
+.b{
+    width: 200px;
+    margin-left: 50px;
+}

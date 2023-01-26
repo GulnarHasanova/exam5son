@@ -1,0 +1,65 @@
+.cardRow{
+    display: flex;
+    text-align: center;
+    padding-top: 6%;
+    padding-bottom:6%;
+    justify-content: center;
+
+      h4{
+        font-size: 36px;
+     
+      }
+}
+
+.c{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #edf0ef;
+
+    h4{
+        padding-top: 10%;
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 26.4px;
+         font-family: 'Roboto', sans-serif;
+         letter-spacing: 0
+        ;
+   
+
+    }
+    small{
+        font-weight: 500;
+        font-size: 14px;
+        color: rgb(165, 165, 165);
+        line-height: 21px;
+         font-family: 'Roboto', sans-serif;
+         letter-spacing: 0
+        ;
+    }
+}   
+.a{
+    align-items: center;
+}
+
+.forcard{
+    justify-content: space-evenly;
+}
+
+.ccc{
+    align-items: center;
+    background-color: #eaebec;
+}
+
+.sek{
+    border-radius: 25px;
+}
+
+.price{
+    background-color: #ffb606;
+    width: 73.5px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
